@@ -15,7 +15,7 @@ We will be open to talking about everyones wants and we all know it is okay to b
 unconfortable doing by yourself. If anyone needs help with specific task we will add others to help them with it.
  
 ## How will we will track progress (and follow-up) on completion of tasks
-
+We will check in at specified check-points or when steps are accomplished by individuals. We will let team members know when we move on to new tasks and make sure everybody is on the same page.
 
 
 ## How will will communicate difficulties with a task assigned to us
