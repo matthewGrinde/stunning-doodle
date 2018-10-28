@@ -37,11 +37,11 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Student Textbook Helper
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+The output will be the aile the book is in, how many are left, and the name of the book that is on file.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
