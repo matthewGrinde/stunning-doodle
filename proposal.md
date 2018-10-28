@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Book stores are confusing for new students and can seem like mazes. They are large and filled with a large number of different books for an equally large number of classes. This program will store the location of the books in the store along with other pertinent information about the text book using a hash table. The user can search for a certain book using the program and recieve the location and info about the requested book.
+Book stores are confusing for new students and can seem like mazes. They are large and filled with a large number of different books for an equally large number of classes. This program will store the location of the books in the store along with other pertinent information about the text book using a hash table. The user can search for a certain book using the program and recieve the location and info about the requested book. People working at the bookstore will be able to update the information shown to the users through admin privilages. 
 
 ## Questions to answer for Exercise #2
 
@@ -39,7 +39,7 @@ Student Textbook Helper
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-The output will be the aile the book is in, how many are left, and the name of the book that is on file.
+The output will be the aisle the book is in, how many are left, and the name of the book that is on file.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -51,11 +51,14 @@ We will use a simple graphic user interface and text menus to show books availab
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-For this programs we will need four key files. This will include a main, hash table, node class, and the graphical interface (we do not know how to do that yet). We will also need and ADTInterface. 
+For this programs we will need four key files. This will include a main, hashtable, node class, and the graphical interface (we do not know how to do that yet). We will also need and ADTInterface. 
 
 Name each interface or class and briefly describe its function or purpose.
 
-Main- This class communicates with the user whether that be a student or someone with admin privilages (bookstore worker).
+Main- This class communicates with the user whether that be a student or someone with admin privilages trying to make changes to data.
+Node- This class outlines all the information that someone may need about specific books such as book title, ISBN, number avilible, used vs. new, ect.
+Hashtable-  this is the main data structure used for this app. Things added to the hashtable will be able to be edited .
+Graphical interface- we do not know how to implement this yet but we will need to have some type of graphical interface that will be used along with the main to communicated with the user.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
