@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 44 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -45,7 +45,7 @@ The output will be the aile the book is in, how many are left, and the name of t
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The input will include the ISBN number for each book, the name of the book, how many of each book are on the shelf (by updating every time a book is added or checked out), and the aisle number and shelf number of the book.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
