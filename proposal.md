@@ -29,18 +29,18 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
+Briefly describe a problem that your team would like to solve. 
 Describe at a high level a program that could solve that problem.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+Student Textbook Helper
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+The output would contain the aile number, how many books are left, and the name the book.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
