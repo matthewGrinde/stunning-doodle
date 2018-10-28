@@ -29,7 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Book stores are confusing for new students and can seem like mazes. The are large and filled with a large number of different books for an equally large number of classes. This program will store the location of the books in the store along with other pertinent information about the text book useing a hash table. The user can search for a certian book using the program and recieve the location and info about the requested book.
+Book stores are confusing for new students and can seem like mazes. They are large and filled with a large number of different books for an equally large number of classes. This program will store the location of the books in the store along with other pertinent information about the text book using a hash table. The user can search for a certain book using the program and recieve the location and info about the requested book.
 
 ## Questions to answer for Exercise #2
 
