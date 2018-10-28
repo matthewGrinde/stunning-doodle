@@ -51,10 +51,11 @@ We will use a simple graphic user interface and text menus to show books availab
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+For this programs we will need four key files. This will include a main, hash table, node class, and the graphical interface (we do not know how to do that yet). We will also need and ADTInterface. 
 
 Name each interface or class and briefly describe its function or purpose.
 
+Main- This class communicates with the user whether that be a student or someone with admin privilages (bookstore worker).
 
 ## Edit and Submit this file and any figures referenced by this document.
 
