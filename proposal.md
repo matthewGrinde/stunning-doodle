@@ -55,10 +55,10 @@ For this programs we will need four key files. This will include a main, hashtab
 
 Name each interface or class and briefly describe its function or purpose.
 
-Main- This class communicates with the user whether that be a student or someone with admin privilages trying to make changes to data.
-Node- This class outlines all the information that someone may need about specific books such as book title, ISBN, number avilible, used vs. new, ect.
-Hashtable-  this is the main data structure used for this app. Things added to the hashtable will be able to be edited .
-Graphical interface- we do not know how to implement this yet but we will need to have some type of graphical interface that will be used along with the main to communicated with the user.
+## Main- This class communicates with the user whether that be a student or someone with admin privilages trying to make changes to data.
+## Node- This class outlines all the information that someone may need about specific books such as book title, ISBN, number avilible, used vs. new, ect.
+## Hashtable-  this is the main data structure used for this app. Things added to the hashtable will be able to be edited .
+## Graphical interface- we do not know how to implement this yet but we will need to have some type of graphical interface that will be used along with the main to communicated with the user.
 
 ## Edit and Submit this file and any figures referenced by this document.
 
