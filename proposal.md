@@ -47,7 +47,7 @@ The input will include the ISBN number for each book, the name of the book, how 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+We will use a simple graphic user interface and text menus to show books available in the aisles and display the details for each book. This should make it easier to search and view information in the program.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
