@@ -23,7 +23,7 @@ We will actively try to communicate with each other and share if we are running 
 
 
 ## How will we back up each other to ensure that deadlines are not missed
-
+We will communicate throughout the project and check in early with each other. We can check in a day or two in advance of the deadline, if possible, to make sure there are no major gaps in progress.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
