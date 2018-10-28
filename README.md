@@ -7,13 +7,14 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:       name 1:
-       * GitHub username 2:       name 2:
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
-   * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+       * GitHub username 1: matthewGrinde    name 1: Matthew Grinde
+
+       * GitHub username 2: tdtruong98       name 2: Thao Truong
+       * GitHub username 3: sbczkiewicz      name 3: Steve Bczkiewicz
+       * GitHub username 4: jfernandes2      name 4: Jessica Fernandes
+       * GitHub username 5:                  name 5:
+   * When did you complete this exercise? 10/28/2018 at 5:38pm
+   * How long did it take your team to complete this exercise? An hour and a half
 
 ## Table of Contents
 
