@@ -27,6 +27,6 @@ We will communicate throughout the project and check in early with each other. W
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
+We will add rules as we see fit.
 
 
